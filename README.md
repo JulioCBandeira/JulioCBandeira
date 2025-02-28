@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Julio Bandeira
 
-- 🌱 Estou aprendendo desenvolvimento front-end
+- Atuo na execução de rotinas e monitoramento de aplicações em produção, utilizando ferramentas como Docker, Zabbix e Grafana., análise de banco de dados, elaboração de relatórios de testes Wi-Fi, suporte em instalações e customizações de aplicativos, revisão de perfis e elaboração de relatórios. Tenho experiência em troubleshooting inicial e análise de incidentes.
+
+Possuo experiência em Shell Script, Linux, MySQL, Python, Java, Spring Boot, Power BI e Excel.
 - 📫 Contate-me pelo e-mail: juliobandeira412@gmail.com
 - 😄 Pronomes: ele/dele
 
