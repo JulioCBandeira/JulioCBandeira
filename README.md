@@ -1,28 +1,54 @@
-## Olá! Eu sou o Julio Bandeira
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Julio+Bandeira!" alt="Typing SVG" />
+  </a>
+</h1>
 
-- Atuo na execução de rotinas e monitoramento de aplicações em produção, utilizando ferramentas como Docker, Zabbix e Grafana., análise de banco de dados, elaboração de relatórios de testes Wi-Fi, suporte em instalações e customizações de aplicativos, revisão de perfis e elaboração de relatórios. Tenho experiência em troubleshooting inicial e análise de incidentes.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="280" alt="GIF de boas-vindas"/>
+</p>
 
-Possuo experiência em Shell Script, Linux, MySQL, Python, Java, Spring Boot, Power BI e Excel.
-- 📫 Contate-me pelo e-mail: juliobandeira412@gmail.com
-- 😄 Pronomes: ele/dele
+
+
+## 👨‍🏫 Sobre mim
+
+- 🎓 Analista de Infraestrutura SAS na **[TO Brasil](https://www.to-brasil.com/)**  
+- ☁ Apaixonado por *Cloud Computing, **DevOps* e *Infraestrutura*  
+- 📚 Formando em Análise e Desenvolvimento de Sistemas
+
+## 🏅 Badges & Conquistas
+
+<p align="center">
+  <img width="170" alt="image" src="https://github.com/user-attachments/assets/042d2041-d19a-4404-bf4a-164b7a142e0a" />
+</p>
+
+## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
-  <a href="https://github.com/JulioCBandeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCBandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCBandeira&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 </div>
-  
-  ##
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <div align="center"> 
-    <h3>Social 📱</h3><br>
-  <a href="https://www.instagram.com/juliobandeira01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juliobandeira412@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-cesar-paula-bandeira-j%C3%BAnior-50a0371b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    
-  ![Snake animation](https://github.com/JulioCBandeira/JulioCBandeira/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
-  
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscopim&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages"/>
+</div>
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="www.linkedin.com/in/julioc-bandeira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/JulioCBandeira" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+    <a href="mailto:julio.bandeira.pro@outlook.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
