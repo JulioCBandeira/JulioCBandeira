@@ -33,12 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscopim&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages"/>
-</div>
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
